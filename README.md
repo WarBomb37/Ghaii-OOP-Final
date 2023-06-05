@@ -22,3 +22,6 @@ Algorithms:
 5. oWins(int a, int b, int c): Marks the buttons with a green background color to indicate O's winning move and disables all buttons.
 
 i hope the outcome of this project will be a good score for my rap sheet.
+
+# HOW TO PLAY
+its tic tac toe.....

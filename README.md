@@ -24,4 +24,4 @@ Algorithms:
 i hope the outcome of this project will be a good score for my rap sheet.
 
 # HOW TO PLAY
-its tic tac toe.....
+its tic tac toe..... (there are two team in Tic Tac Toe, ther is team circle and team X, these two team compete to get 3 cicle or x's in a row.)
